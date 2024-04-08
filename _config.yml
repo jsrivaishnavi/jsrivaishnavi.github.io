@@ -21,14 +21,14 @@ repository               : "fnusid/fnusid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "sid.jpeg"
+  name             : "FNU Sidharth"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Speech/audio and neuroscience researcher"
+  location         : "Seattle, USA"
+  employer         : "University of Washington, Seattle"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sid17@uw.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
