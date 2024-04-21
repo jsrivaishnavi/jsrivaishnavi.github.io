@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Decoding pain states from electrophysiological signals using statistical approaches"
+excerpt: "Decoding pain states from electrophysiological signals using statistical approaches<br/><img src='/images/pain_decog.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This study aimed to elucidate two primary objectives: firstly, to identify the specific brain regions associated with varying stages of pain, and secondly, to distinguish between pain states—specifically,  pain versus no pain—utilizing Electrocorticography (ECoG) data
