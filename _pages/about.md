@@ -16,3 +16,9 @@ In University of Washington, I am fortunate to be advised by [Dr. Jeffrey Herron
 
 Prior to joining University of Washington, I was a research intern at the [Learning and Extraction of Acoustic Patterns (LEAP) lab](http://leap.ee.iisc.ac.in) where I worked alongside [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) on the [DISPLACE 2023 Challenge](https://displace2023.github.io).
 
+
+## News
+
+**May 13, 2024**  
+I will be presenting a poster at UW CoNectome on our research work on identifying neural biomarkers of pain using a statistical approach. The event will take place at Zillow Commons in the Gates Center. If you're interested in learning more about our work, please feel free to drop by the poster presentation, 5/13.
+
