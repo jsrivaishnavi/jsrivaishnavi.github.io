@@ -22,3 +22,6 @@ Prior to joining University of Washington, I was a research intern at the [Learn
 **May 13, 2024**  
 I will be presenting a poster at UW CoNectome on our research work on identifying neural biomarkers of pain using a statistical approach. The event will take place at Zillow Commons in the Gates Center. If you're interested in learning more about our work, please feel free to drop by the poster presentation, 5/13.
 
+**June 18, 2024**  
+I'm thrilled to announce that I've accepted an offer to join BrainChip as a Machine Learning Engineering Intern. I'll be starting this exciting journey on June 27, 2024. Looking forward to contributing to innovative projects and advancing my skills in neuromorphic computing and machine learning.
+
