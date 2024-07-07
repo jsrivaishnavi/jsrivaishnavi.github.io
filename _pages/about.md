@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Bothell. I reveived my bachelor's in Electronics and Communication Engineering from G. Narayanamma Institute of Technology.
+I am a first year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Bothell. I reveived my bachelor's in Electronics and Communication Engineering from G. Narayanamma Institute of Technology and Sciences.
 
 My research interests lie in microfabrication and ReRAM memory device optimization.
 
