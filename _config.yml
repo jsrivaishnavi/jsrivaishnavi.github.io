@@ -21,28 +21,28 @@ repository               : "jsrivaishnavi/jsrivaishnavi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sid.jpeg"
-  name             : "FNU Sidharth"
+  avatar           : "kuku.jpeg"
+  name             : "Sri Vaishnavi Jamalapurapu"
   pronouns         : # example: "she/her"  
-  bio              : "<a href='https://sites.uw.edu/jeffherr/' style='color: darkblue; font-weight: bold;'>Herron Lab</a> and <a href='https://homes.cs.washington.edu/~gshyam/' style='color: darkblue; font-weight: bold;'>Mobile Intelligence Lab</a><br />Speech/audio and neuroscience researcher"
+  bio              : "<a href='https://emitlab.ece.uw.edu' style='color: darkblue; font-weight: bold;'>EMiT lab</a> and <a href='http://faculty.washington.edu/schoi5/' style='color: darkblue; font-weight: bold;'>Choi Research Group</a><br /> Semiconductor device researcher"
   location         : "Seattle, USA"
   employer         : "University of Washington"
   uri              : # URL
-  email            : "sid17@uw.edu" 
+  email            : "srij@uw.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=XjJ2oQcAAAAJ&hl=en&authuser=3"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0351-9401"
+  orcid            : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Sidharth-Sidharth-2"
+  researchgate     : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "fnusid"
+  github           : "jsrivaishnavi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : sidharth172901
+  linkedin         : sri-vaishnavi-jamalapurapu
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
