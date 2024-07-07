@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sidharth's homepage"
+title                    : "Sri Vaishnavi's homepage"
 title_separator          : "-"
-name                     : &name "FNU Sidharth"
+name                     : &name "Sri Vaishnavi Jamalapurapu"
 description              : &description "personal description"
-url                      : https://fnusid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jsrivaishnavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fnusid/fnusid.github.io"
+repository               : "jsrivaishnavi/jsrivaishnavi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
