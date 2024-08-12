@@ -1,6 +1,6 @@
 ---
 title: "SiF Fabrication Development for Silicon Photonic Transceivers"
-excerpt: "Engaged in the development of Optical DAC Based Transmitters within a Silicon-Integrated-Fabric (SiF) 3D Package on-site at the Washington Nanofabrication Facility <br/><img src='/images/plant2.png'> [EMiT Lab](https://emitlab.ece.uw.edu/)"
+excerpt: "Engaged in the development of Optical DAC Based Transmitters within a Silicon-Integrated-Fabric (SiF) 3D Package on-site at the Washington Nanofabrication Facility <br/><img src='/images/wnf.jpeg'> [EMiT Lab](https://emitlab.ece.uw.edu/)"
 collection: portfolio
 ---
 Minimized interconnect parasitics, reduced pad sizes, and implemented interconnect traces on glass substrates, resulting in a 10X increase in throughput (1100 units per hour) and optimized tacking processes within 10 seconds.Ensured high mechanical and electrical reliability, and scalability for any silicon-interposer, applicable to advanced packaging constructs, dielet assembly on interposers, wafer-scale packaging, and high-performance computing applications.
