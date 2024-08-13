@@ -10,4 +10,5 @@ Over the course of Winter Quarter, we have created a product which uses various 
 website also hosts a database to show the plant’s health over time and observe growth trends.
 <br/>
 <img src='/images/plant2.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'/>
+<br/>
 Skills : System level interfacing, hardware implmentation, debugging, website development, sensors, microprocessor interfacing.
