@@ -1,11 +1,5 @@
 ---
 title: "Linearized N-Path for Self-Interference Cancellation"
-excerpt: "Developed adaptive and reconfigurable n-path linear filters for high programmability across diverse applications, achieving effective self-interference cancellation at 500MHz with an IM3 value of -5dBm (two-tone) and a supply voltage of 3.3V.<br/><img src='/images/npath1.png'>"
-collection: portfolio
----
-
----
-title: "Linearized N-Path for Self-Interference Cancellation"
 excerpt: "Developed adaptive and reconfigurable n-path linear filters for high programmability across diverse applications, achieving effective self-interference cancellation at 500MHz with an IM3 value of -5dBm (two-tone) and a supply voltage of 3.3V.<br/><img src='/images/npath1.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'/>"
 collection: portfolio
 ---
