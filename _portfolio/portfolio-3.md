@@ -1,6 +1,6 @@
 ---
 title: "The Eden Console"
-excerpt: "An advanced smart plant health-care system<br/><img src='/images/plant1.png'>"
+excerpt: "An advanced smart plant health-care system <br/> <img src='/images/plant1.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'/> <br/>"
 collection: portfolio
 ---
 
@@ -11,4 +11,4 @@ website also hosts a database to show the plant’s health over time and observe
 <br/>
 <img src='/images/plant2.png' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'/>
 <br/>
-Skills : System level interfacing, hardware implmentation, debugging, website development, sensors, microprocessor interfacing.
+**Skills** : System level interfacing, hardware implmentation, debugging, website development, sensors, microprocessor interfacing.
